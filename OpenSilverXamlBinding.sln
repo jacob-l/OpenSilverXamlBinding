@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverXamlBinding", "OpenSilverXamlBinding\OpenSilverXamlBinding\OpenSilverXamlBinding.csproj", "{9729947D-3641-4DD0-A0C7-58409F721086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverXamlBinding.Browser", "OpenSilverXamlBinding\OpenSilverXamlBinding.Browser\OpenSilverXamlBinding.Browser.csproj", "{AF53C873-29FE-4767-B372-1DD9075F7B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverXamlBinding.Simulator", "OpenSilverXamlBinding\OpenSilverXamlBinding.Simulator\OpenSilverXamlBinding.Simulator.csproj", "{71DEE9AF-9358-45BF-A40E-90026284B503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9729947D-3641-4DD0-A0C7-58409F721086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9729947D-3641-4DD0-A0C7-58409F721086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9729947D-3641-4DD0-A0C7-58409F721086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9729947D-3641-4DD0-A0C7-58409F721086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF53C873-29FE-4767-B372-1DD9075F7B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF53C873-29FE-4767-B372-1DD9075F7B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF53C873-29FE-4767-B372-1DD9075F7B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF53C873-29FE-4767-B372-1DD9075F7B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DEE9AF-9358-45BF-A40E-90026284B503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DEE9AF-9358-45BF-A40E-90026284B503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DEE9AF-9358-45BF-A40E-90026284B503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DEE9AF-9358-45BF-A40E-90026284B503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FA19E9-7EB1-4AF2-871C-61D7CC8799EC}
+	EndGlobalSection
+EndGlobal
